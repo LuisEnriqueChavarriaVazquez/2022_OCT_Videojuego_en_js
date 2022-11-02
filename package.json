@@ -1,0 +1,19 @@
+{
+  "name": "2022_oct_videojuego_en_js",
+  "version": "1.0.0",
+  "description": "Es un pequeno videojuego",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuisEnriqueChavarriaVazquez/2022_OCT_Videojuego_en_js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LuisEnriqueChavarriaVazquez/2022_OCT_Videojuego_en_js/issues"
+  },
+  "homepage": "https://github.com/LuisEnriqueChavarriaVazquez/2022_OCT_Videojuego_en_js#readme"
+}
